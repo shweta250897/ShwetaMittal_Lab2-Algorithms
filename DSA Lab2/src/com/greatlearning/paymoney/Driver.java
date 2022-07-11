@@ -25,7 +25,7 @@ public class Driver {
 			System.out.println("The target "+ targetAmount+ " is not acheived!!");
 		}	
 		else {
-			System.out.println("The target "+ targetAmount + " crores is acheived in "+ numberOfDays+ " days.5");
+			System.out.println("The target "+ targetAmount + " crores is acheived in "+ numberOfDays+ " days.");
 		}
 			
 		
